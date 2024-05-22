@@ -1,4 +1,4 @@
-# Symfony Circular Relationships Serializer Groups (Symfo 6.4)
+# Symfony Circular Relationships Serializer Groups (Symfony 7.0)
 
 ## Problem Statement
 
